@@ -1,0 +1,391 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>user_auth, Author at Heart Project Website</title>
+	<atom:link href="/author/user_auth/feed/" rel="self" type="application/rss+xml" />
+	<link>/author/user_auth/</link>
+	<description>Hardware-enabled Energy Analytics in Real Time</description>
+	<lastBuildDate>Wed, 17 Jan 2024 11:01:00 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+
+<image>
+	<url>/wp-content/uploads/2021/03/heart_fav.png</url>
+	<title>user_auth, Author at Heart Project Website</title>
+	<link>/author/user_auth/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>HEDNO “Hack the Power” Datathon</title>
+		<link>/hedno-hack-the-power-datathon/</link>
+		
+		<dc:creator><![CDATA[user_auth]]></dc:creator>
+		<pubDate>Sat, 06 May 2023 09:37:29 +0000</pubDate>
+				<category><![CDATA[News]]></category>
+		<guid isPermaLink="false">/?p=2265</guid>
+
+					<description><![CDATA[<p>The HEART project was presented as part of the HEDNO &#8216;Hack the Power&#8217; Datathon event organized by the Hellenic Electricity Distribution Network Operator (HEDNO). The project was summarized for an audience of over 150 individuals, consisting of stakeholders in the energy sector and researchers in energy management issues. The presentation was delivered by Dr. Ilias [&#8230;]</p>
+<p>The post <a href="/hedno-hack-the-power-datathon/">HEDNO “Hack the Power” Datathon</a> appeared first on <a href="/">Heart Project Website</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="2265" class="elementor elementor-2265">
+						<section class="has_ma_el_bg_slider elementor-section elementor-top-section elementor-element elementor-element-de8c41f elementor-section-boxed elementor-section-height-default elementor-section-height-default jltma-glass-effect-no" data-id="de8c41f" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="has_ma_el_bg_slider elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-0c589aa jltma-glass-effect-no" data-id="0c589aa" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-c41582c jltma-glass-effect-no elementor-widget elementor-widget-image" data-id="c41582c" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+													<img fetchpriority="high" decoding="async" width="512" height="383" src="/wp-content/uploads/2023/05/hedno_datathon-1.png" class="attachment-full size-full wp-image-2267" alt="HEDNO “Hack the Power” Datathon" srcset="/wp-content/uploads/2023/05/hedno_datathon-1.png 512w, /wp-content/uploads/2023/05/hedno_datathon-1-300x224.png 300w, /wp-content/uploads/2023/05/hedno_datathon-1-16x12.png 16w" sizes="(max-width: 512px) 100vw, 512px" />													</div>
+				</div>
+				<div class="elementor-element elementor-element-690d1d7 jltma-glass-effect-no elementor-widget elementor-widget-text-editor" data-id="690d1d7" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p><span style="font-weight: 400;">The HEART project was presented as part of the HEDNO &#8216;Hack the Power&#8217; Datathon event organized by the Hellenic Electricity Distribution Network Operator (HEDNO).</span></p><p><span style="font-weight: 400;">The project was summarized for an audience of over 150 individuals, consisting of stakeholders in the energy sector and researchers in energy management issues. The presentation was delivered by Dr. Ilias Dimitriadis and Ph.D. candidate George Vlachavas, representing the Data and Web Science Laboratory (DataLab), a partner in the HEART program, at the specific event.</span></p>						</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+				</div>
+		<p>The post <a href="/hedno-hack-the-power-datathon/">HEDNO “Hack the Power” Datathon</a> appeared first on <a href="/">Heart Project Website</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>HEART Project presented to students from Informatics Dept. Aristotle University of Thessaloniki</title>
+		<link>/heart-project-presented-to-students-from-informatics-dept-aristotle-university-of-thessaloniki/</link>
+		
+		<dc:creator><![CDATA[user_auth]]></dc:creator>
+		<pubDate>Fri, 10 Mar 2023 09:16:01 +0000</pubDate>
+				<category><![CDATA[News]]></category>
+		<guid isPermaLink="false">/?p=2258</guid>
+
+					<description><![CDATA[<p>The HEART research project was presented to a total of over 500 undergraduate and postgraduate students of the Department of Informatics at Aristotle University of Thessaloniki. This presentation occurred through both specialized lectures and presentations during courses. Specifically, the project and the related research methodology were presented in the context of the courses &#8220;Web &#38; [&#8230;]</p>
+<p>The post <a href="/heart-project-presented-to-students-from-informatics-dept-aristotle-university-of-thessaloniki/">HEART Project presented to students from Informatics Dept. Aristotle University of Thessaloniki</a> appeared first on <a href="/">Heart Project Website</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="2258" class="elementor elementor-2258">
+						<section class="has_ma_el_bg_slider elementor-section elementor-top-section elementor-element elementor-element-de8c41f elementor-section-boxed elementor-section-height-default elementor-section-height-default jltma-glass-effect-no" data-id="de8c41f" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="has_ma_el_bg_slider elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-0c589aa jltma-glass-effect-no" data-id="0c589aa" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-c41582c jltma-glass-effect-no elementor-widget elementor-widget-image" data-id="c41582c" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+													<img decoding="async" width="512" height="384" src="/wp-content/uploads/2024/01/heart_data_web_science-1.png" class="attachment-full size-full wp-image-2260" alt="HEART Project presented to students from Informatics Dept. Aristotle University of Thessaloniki" srcset="/wp-content/uploads/2024/01/heart_data_web_science-1.png 512w, /wp-content/uploads/2024/01/heart_data_web_science-1-300x225.png 300w, /wp-content/uploads/2024/01/heart_data_web_science-1-16x12.png 16w" sizes="(max-width: 512px) 100vw, 512px" />													</div>
+				</div>
+				<div class="elementor-element elementor-element-690d1d7 jltma-glass-effect-no elementor-widget elementor-widget-text-editor" data-id="690d1d7" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p>The HEART research project was presented to a total of over 500 undergraduate and postgraduate students of the Department of Informatics at Aristotle University of Thessaloniki. This presentation occurred through both specialized lectures and presentations during courses.</p><p>Specifically, the project and the related research methodology were presented in the context of the courses &#8220;Web &amp; Data Mining, Social Network Analysis&#8221; (DWS Post-Graduate MSc) and the courses &#8220;World Wide Web Information Systems&#8221; and &#8220;Operating Systems&#8221; by Dr. Pavlos Sermpezis, Dr. Ilias Dimitriadis, Prof. Athena Vakali, and Ph.D. candidate George Vlachavas. Additionally, there was a presentation on the technologies developed/under development in HEART by Dr. Dimitrios Doukas (NET2GRID partner) as part of a relevant lecture in the postgraduate program &#8220;Data &amp; Web Science&#8221;.</p>						</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+				</div>
+		<p>The post <a href="/heart-project-presented-to-students-from-informatics-dept-aristotle-university-of-thessaloniki/">HEART Project presented to students from Informatics Dept. Aristotle University of Thessaloniki</a> appeared first on <a href="/">Heart Project Website</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Join us on this exciting journey toward a sustainable future</title>
+		<link>/join-us-on-this-exciting-journey-toward-a-sustainable-future/</link>
+		
+		<dc:creator><![CDATA[user_auth]]></dc:creator>
+		<pubDate>Fri, 03 Mar 2023 10:16:23 +0000</pubDate>
+				<category><![CDATA[News]]></category>
+		<guid isPermaLink="false">/?p=2301</guid>
+
+					<description><![CDATA[<p>In today&#8217;s dynamic energy landscape, consumers play a vital role in shaping a sustainable future. However, finding an affordable and user-friendly proposal that caters to their diverse needs has been a persistent challenge. HEART is set to change that by bringing together state-of-the-art equipment, software, and services. This innovative solution enables consumers to actively and [&#8230;]</p>
+<p>The post <a href="/join-us-on-this-exciting-journey-toward-a-sustainable-future/">Join us on this exciting journey toward a sustainable future</a> appeared first on <a href="/">Heart Project Website</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="2301" class="elementor elementor-2301">
+						<section class="has_ma_el_bg_slider elementor-section elementor-top-section elementor-element elementor-element-de8c41f elementor-section-boxed elementor-section-height-default elementor-section-height-default jltma-glass-effect-no" data-id="de8c41f" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="has_ma_el_bg_slider elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-0c589aa jltma-glass-effect-no" data-id="0c589aa" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-c41582c jltma-glass-effect-no elementor-widget elementor-widget-image" data-id="c41582c" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+													<img decoding="async" width="512" height="512" src="/wp-content/uploads/2023/03/heart_news_ft_03-1.png" class="attachment-full size-full wp-image-2303" alt="heart project" srcset="/wp-content/uploads/2023/03/heart_news_ft_03-1.png 512w, /wp-content/uploads/2023/03/heart_news_ft_03-1-300x300.png 300w, /wp-content/uploads/2023/03/heart_news_ft_03-1-150x150.png 150w, /wp-content/uploads/2023/03/heart_news_ft_03-1-12x12.png 12w" sizes="(max-width: 512px) 100vw, 512px" />													</div>
+				</div>
+				<div class="elementor-element elementor-element-690d1d7 jltma-glass-effect-no elementor-widget elementor-widget-text-editor" data-id="690d1d7" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p>In today&#8217;s dynamic energy landscape, consumers play a vital role in shaping a sustainable future. However, finding an affordable and user-friendly proposal that caters to their diverse needs has been a persistent challenge. HEART is set to change that by bringing together state-of-the-art equipment, software, and services. This innovative solution enables consumers to actively and dynamically contribute to resource conservation and energy efficiency.Join us on this exciting journey toward a sustainable future! Together, we can make a meaningful difference, harmonizing cutting-edge technology with consumer empowerment.</p>						</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+				</div>
+		<p>The post <a href="/join-us-on-this-exciting-journey-toward-a-sustainable-future/">Join us on this exciting journey toward a sustainable future</a> appeared first on <a href="/">Heart Project Website</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>HEART Project’s primary goal</title>
+		<link>/heart-projects-primary-goal/</link>
+		
+		<dc:creator><![CDATA[user_auth]]></dc:creator>
+		<pubDate>Tue, 24 Jan 2023 10:11:36 +0000</pubDate>
+				<category><![CDATA[News]]></category>
+		<guid isPermaLink="false">/?p=2295</guid>
+
+					<description><![CDATA[<p>One of the primary goals of the HEART Research Project is to develop machine learning algorithms through data collection, enabling the extraction of pre-trained generalized models for each device of interest. These models will be securely stored on our innovative and low-cost hardware device, facilitating real-time identification of loads and home appliances. By doing so, [&#8230;]</p>
+<p>The post <a href="/heart-projects-primary-goal/">HEART Project’s primary goal</a> appeared first on <a href="/">Heart Project Website</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="2295" class="elementor elementor-2295">
+						<section class="has_ma_el_bg_slider elementor-section elementor-top-section elementor-element elementor-element-de8c41f elementor-section-boxed elementor-section-height-default elementor-section-height-default jltma-glass-effect-no" data-id="de8c41f" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="has_ma_el_bg_slider elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-0c589aa jltma-glass-effect-no" data-id="0c589aa" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-c41582c jltma-glass-effect-no elementor-widget elementor-widget-image" data-id="c41582c" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+													<img loading="lazy" decoding="async" width="512" height="512" src="/wp-content/uploads/2023/01/heart_news_ft_02-1.png" class="attachment-full size-full wp-image-2297" alt="heart project" srcset="/wp-content/uploads/2023/01/heart_news_ft_02-1.png 512w, /wp-content/uploads/2023/01/heart_news_ft_02-1-300x300.png 300w, /wp-content/uploads/2023/01/heart_news_ft_02-1-150x150.png 150w, /wp-content/uploads/2023/01/heart_news_ft_02-1-12x12.png 12w" sizes="(max-width: 512px) 100vw, 512px" />													</div>
+				</div>
+				<div class="elementor-element elementor-element-690d1d7 jltma-glass-effect-no elementor-widget elementor-widget-text-editor" data-id="690d1d7" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p>One of the primary goals of the HEART Research Project is to develop machine learning algorithms through data collection, enabling the extraction of pre-trained generalized models for each device of interest. These models will be securely stored on our innovative and low-cost hardware device, facilitating real-time identification of loads and home appliances. By doing so, we can minimize operating and financial costs while reducing the complexity of relying on a cloud platform/infrastructure.</p>						</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+				</div>
+		<p>The post <a href="/heart-projects-primary-goal/">HEART Project’s primary goal</a> appeared first on <a href="/">Heart Project Website</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Toward a more intelligent and connected future</title>
+		<link>/toward-a-more-intelligent-and-connected-future/</link>
+		
+		<dc:creator><![CDATA[user_auth]]></dc:creator>
+		<pubDate>Sat, 19 Nov 2022 09:56:28 +0000</pubDate>
+				<category><![CDATA[News]]></category>
+		<guid isPermaLink="false">/?p=2285</guid>
+
+					<description><![CDATA[<p>Heart research project aims to develop machine learning algorithms that export pre-trained generalized models per device of interest. These models will be stored in the device within a home facility, enabling more efficient and effective data processing. With HEART, we&#8217;re pushing the boundaries of what&#8217;s possible in machine learning and making strides toward a more [&#8230;]</p>
+<p>The post <a href="/toward-a-more-intelligent-and-connected-future/">Toward a more intelligent and connected future</a> appeared first on <a href="/">Heart Project Website</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="2285" class="elementor elementor-2285">
+						<section class="has_ma_el_bg_slider elementor-section elementor-top-section elementor-element elementor-element-de8c41f elementor-section-boxed elementor-section-height-default elementor-section-height-default jltma-glass-effect-no" data-id="de8c41f" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="has_ma_el_bg_slider elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-0c589aa jltma-glass-effect-no" data-id="0c589aa" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-c41582c jltma-glass-effect-no elementor-widget elementor-widget-image" data-id="c41582c" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+													<img loading="lazy" decoding="async" width="512" height="512" src="/wp-content/uploads/2022/11/heart_news_ft_01-1.png" class="attachment-full size-full wp-image-2291" alt="heart project" srcset="/wp-content/uploads/2022/11/heart_news_ft_01-1.png 512w, /wp-content/uploads/2022/11/heart_news_ft_01-1-300x300.png 300w, /wp-content/uploads/2022/11/heart_news_ft_01-1-150x150.png 150w, /wp-content/uploads/2022/11/heart_news_ft_01-1-12x12.png 12w" sizes="(max-width: 512px) 100vw, 512px" />													</div>
+				</div>
+				<div class="elementor-element elementor-element-690d1d7 jltma-glass-effect-no elementor-widget elementor-widget-text-editor" data-id="690d1d7" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p>Heart research project aims to develop machine learning algorithms that export pre-trained generalized models per device of interest. These models will be stored in the device within a home facility, enabling more efficient and effective data processing. With HEART, we&#8217;re pushing the boundaries of what&#8217;s possible in machine learning and making strides toward a more intelligent and connected future.</p>						</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+				</div>
+		<p>The post <a href="/toward-a-more-intelligent-and-connected-future/">Toward a more intelligent and connected future</a> appeared first on <a href="/">Heart Project Website</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Open Information Day at Aristotle University of Thessaloniki</title>
+		<link>/open-information-day-at-aristotle-university-of-thessaloniki/</link>
+		
+		<dc:creator><![CDATA[user_auth]]></dc:creator>
+		<pubDate>Mon, 10 Oct 2022 09:46:05 +0000</pubDate>
+				<category><![CDATA[News]]></category>
+		<guid isPermaLink="false">/?p=2271</guid>
+
+					<description><![CDATA[<p>The first Open Information Day of the Department of Physical Sciences at Aristotle University of Thessaloniki was organized on October 5. The purpose of this open informative event was to provide information and updates to the academic community of the university regarding educational, research, and social activities. It aimed at facilitating knowledge exchange and introducing [&#8230;]</p>
+<p>The post <a href="/open-information-day-at-aristotle-university-of-thessaloniki/">Open Information Day at Aristotle University of Thessaloniki</a> appeared first on <a href="/">Heart Project Website</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="2271" class="elementor elementor-2271">
+						<section class="has_ma_el_bg_slider elementor-section elementor-top-section elementor-element elementor-element-de8c41f elementor-section-boxed elementor-section-height-default elementor-section-height-default jltma-glass-effect-no" data-id="de8c41f" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="has_ma_el_bg_slider elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-0c589aa jltma-glass-effect-no" data-id="0c589aa" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<section class="has_ma_el_bg_slider elementor-section elementor-inner-section elementor-element elementor-element-cf921ef elementor-section-boxed elementor-section-height-default elementor-section-height-default jltma-glass-effect-no" data-id="cf921ef" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="has_ma_el_bg_slider elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-1d557fa jltma-glass-effect-no" data-id="1d557fa" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-c41582c jltma-glass-effect-no elementor-widget elementor-widget-image" data-id="c41582c" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+													<img loading="lazy" decoding="async" width="383" height="512" src="/wp-content/uploads/2022/10/open_info_day_auth-1.png" class="attachment-full size-full wp-image-2273" alt="Open Information Day at Aristotle University of Thessaloniki" srcset="/wp-content/uploads/2022/10/open_info_day_auth-1.png 383w, /wp-content/uploads/2022/10/open_info_day_auth-1-224x300.png 224w, /wp-content/uploads/2022/10/open_info_day_auth-1-9x12.png 9w" sizes="(max-width: 383px) 100vw, 383px" />													</div>
+				</div>
+					</div>
+		</div>
+				<div class="has_ma_el_bg_slider elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-87673a6 jltma-glass-effect-no" data-id="87673a6" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-2d83ca4 jltma-glass-effect-no elementor-widget elementor-widget-image" data-id="2d83ca4" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+													<img loading="lazy" decoding="async" width="287" height="512" src="/wp-content/uploads/2022/10/open_info_day_auth2-1.png" class="attachment-large size-large wp-image-2286" alt="Open Information Day at Aristotle University of Thessaloniki" srcset="/wp-content/uploads/2022/10/open_info_day_auth2-1.png 287w, /wp-content/uploads/2022/10/open_info_day_auth2-1-168x300.png 168w, /wp-content/uploads/2022/10/open_info_day_auth2-1-7x12.png 7w" sizes="(max-width: 287px) 100vw, 287px" />													</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+				<div class="elementor-element elementor-element-690d1d7 jltma-glass-effect-no elementor-widget elementor-widget-text-editor" data-id="690d1d7" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p>The first Open Information Day of the Department of Physical Sciences at Aristotle University of Thessaloniki was organized on October 5.</p><p>The purpose of this open informative event was to provide information and updates to the academic community of the university regarding educational, research, and social activities. It aimed at facilitating knowledge exchange and introducing the groups and scientific projects carried out within the university.</p><p>The HEART project was represented through the partnership with the Data and Web Science Laboratory (DataLab) of the Department of Informatics at Aristotle University of Thessaloniki as an exhibitor. Visitors had the opportunity to learn about the program from the scientific collaborators present at the event and also receive physical materials with more information.</p>						</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+				</div>
+		<p>The post <a href="/open-information-day-at-aristotle-university-of-thessaloniki/">Open Information Day at Aristotle University of Thessaloniki</a> appeared first on <a href="/">Heart Project Website</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>BEYOND Expo</title>
+		<link>/beyond-expo/</link>
+		
+		<dc:creator><![CDATA[user_auth]]></dc:creator>
+		<pubDate>Thu, 06 Oct 2022 09:51:38 +0000</pubDate>
+				<category><![CDATA[News]]></category>
+		<guid isPermaLink="false">/?p=2277</guid>
+
+					<description><![CDATA[<p>The BEYOND Expo is the first international technology and industry exhibition in Southeast Europe, the Mediterranean, and the MENA region, taking place in Thessaloniki. The expo features top speakers and exhibitors promoting innovation, technology, and the presentation of new products. Its goal is to transform Thessaloniki into a hub for technology and innovation in the [&#8230;]</p>
+<p>The post <a href="/beyond-expo/">BEYOND Expo</a> appeared first on <a href="/">Heart Project Website</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="2277" class="elementor elementor-2277">
+						<section class="has_ma_el_bg_slider elementor-section elementor-top-section elementor-element elementor-element-de8c41f elementor-section-boxed elementor-section-height-default elementor-section-height-default jltma-glass-effect-no" data-id="de8c41f" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="has_ma_el_bg_slider elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-0c589aa jltma-glass-effect-no" data-id="0c589aa" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<section class="has_ma_el_bg_slider elementor-section elementor-inner-section elementor-element elementor-element-bf0a8c5 elementor-section-boxed elementor-section-height-default elementor-section-height-default jltma-glass-effect-no" data-id="bf0a8c5" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="has_ma_el_bg_slider elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-853337e jltma-glass-effect-no" data-id="853337e" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-c41582c jltma-glass-effect-no elementor-widget elementor-widget-image" data-id="c41582c" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+													<img loading="lazy" decoding="async" width="512" height="498" src="/wp-content/uploads/2022/10/beyond22_01-1.png" class="attachment-full size-full wp-image-2279" alt="BEYOND Expo 2022" srcset="/wp-content/uploads/2022/10/beyond22_01-1.png 512w, /wp-content/uploads/2022/10/beyond22_01-1-300x292.png 300w, /wp-content/uploads/2022/10/beyond22_01-1-12x12.png 12w" sizes="(max-width: 512px) 100vw, 512px" />													</div>
+				</div>
+					</div>
+		</div>
+				<div class="has_ma_el_bg_slider elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-b25cdeb jltma-glass-effect-no" data-id="b25cdeb" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-1ed6034 jltma-glass-effect-no elementor-widget elementor-widget-image" data-id="1ed6034" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+													<img loading="lazy" decoding="async" width="385" height="512" src="/wp-content/uploads/2022/10/beyond22_02-1.png" class="attachment-large size-large wp-image-2280" alt="BEYOND Expo 2022" srcset="/wp-content/uploads/2022/10/beyond22_02-1.png 385w, /wp-content/uploads/2022/10/beyond22_02-1-226x300.png 226w, /wp-content/uploads/2022/10/beyond22_02-1-9x12.png 9w" sizes="(max-width: 385px) 100vw, 385px" />													</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+				<div class="elementor-element elementor-element-690d1d7 jltma-glass-effect-no elementor-widget elementor-widget-text-editor" data-id="690d1d7" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p>The <a href="https://www.beyond-expo.gr/" target="_blank" rel="noopener">BEYOND Expo</a> is the first international technology and industry exhibition in Southeast Europe, the Mediterranean, and the MENA region, taking place in Thessaloniki. The expo features top speakers and exhibitors promoting innovation, technology, and the presentation of new products. Its goal is to transform Thessaloniki into a hub for technology and innovation in the broader region and contribute constructively to Greece&#8217;s digital transformation.</p><p>During the two-day conference, internationally recognized speakers, roundtable discussions, workshops, and various presentations introduced the audience to the world of artificial intelligence and its impact on modern society and daily life.</p><p>In 2022, the exhibition was organized from September 29 to October 1 at the Thessaloniki International Exhibition Center.</p><p>The HEART project was presented through the partnership with the Data and Web Science Laboratory (DataLab) of the Department of Informatics at Aristotle University of Thessaloniki as an exhibitor. Visitors could get information about the program from the scientific collaborators at the exhibition booth and receive physical materials for their information.</p><p>The Heart project was presented to a broad audience through partner presentations (&gt;11,000 visitors in 2022 and &gt;6,300 visitors in 2021) both in specialized presentations and at the corresponding booth maintained by the DataLab laboratory. The presentations and information about the Heart project were given by Dr. Vasilios Psomiadis, Dr. Pavlos Serbezis, Dr. Elias Dimitriadis, Prof. Athena Vakali, and Ph.D. candidate George Vlachavas.</p>						</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+				</div>
+		<p>The post <a href="/beyond-expo/">BEYOND Expo</a> appeared first on <a href="/">Heart Project Website</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>HEART Project at Enlit Europe 2022</title>
+		<link>/heart-project-at-enlit-europe-2022/</link>
+		
+		<dc:creator><![CDATA[user_auth]]></dc:creator>
+		<pubDate>Fri, 23 Sep 2022 12:30:44 +0000</pubDate>
+				<category><![CDATA[News]]></category>
+		<guid isPermaLink="false">/?p=2208</guid>
+
+					<description><![CDATA[<p>Throwback to our successful participation at Enlit Europe 2022, the event at the #heart of the energy conversation! Thanks, NET2GRID for hosting us. Looking forward to Enlit Europe 2023 in Frankfurt soon!</p>
+<p>The post <a href="/heart-project-at-enlit-europe-2022/">HEART Project at Enlit Europe 2022</a> appeared first on <a href="/">Heart Project Website</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="2208" class="elementor elementor-2208">
+						<section class="has_ma_el_bg_slider elementor-section elementor-top-section elementor-element elementor-element-de8c41f elementor-section-boxed elementor-section-height-default elementor-section-height-default jltma-glass-effect-no" data-id="de8c41f" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="has_ma_el_bg_slider elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-0c589aa jltma-glass-effect-no" data-id="0c589aa" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-c41582c jltma-glass-effect-no elementor-widget elementor-widget-image" data-id="c41582c" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+													<img loading="lazy" decoding="async" width="525" height="465" src="/wp-content/uploads/2022/09/enlit_2022-e1663940084333.jpg" class="attachment-full size-full wp-image-2211" alt="enlit europe 2022" srcset="/wp-content/uploads/2022/09/enlit_2022-e1663940084333.jpg 525w, /wp-content/uploads/2022/09/enlit_2022-e1663940084333-300x266.jpg 300w, /wp-content/uploads/2022/09/enlit_2022-e1663940084333-14x12.jpg 14w" sizes="(max-width: 525px) 100vw, 525px" />													</div>
+				</div>
+				<div class="elementor-element elementor-element-690d1d7 jltma-glass-effect-no elementor-widget elementor-widget-text-editor" data-id="690d1d7" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p>Throwback to our successful participation at <a href="https://www.enlit-europe.com/" target="_blank" rel="noopener">Enlit Europe 2022</a>, the event at the #heart of the energy conversation! Thanks, <strong>NET2GRID</strong> for hosting us. Looking forward to Enlit Europe 2023 in Frankfurt soon!</p>						</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+				</div>
+		<p>The post <a href="/heart-project-at-enlit-europe-2022/">HEART Project at Enlit Europe 2022</a> appeared first on <a href="/">Heart Project Website</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>The ‘HEART’ research project proposal secures over 830K € of NSRF funding</title>
+		<link>/the-heart-research-project-proposal-secures-over-830k-e-of-nsrf-funding/</link>
+		
+		<dc:creator><![CDATA[user_auth]]></dc:creator>
+		<pubDate>Tue, 02 Mar 2021 12:30:59 +0000</pubDate>
+				<category><![CDATA[News]]></category>
+		<guid isPermaLink="false">http://18.197.160.105/?p=1790</guid>
+
+					<description><![CDATA[<p>Greece, 21 December: The ‘HEART’ research project proposal by NET2GRID, HERON and the Datalab at the School of Informatics of the Aristotle University of Thessaloniki was amongst the 10% of the project applications to be funded by NSRF, the Greek National Strategic Reference Framework, following a rigorous selection process. Τhe ‘HEART’ project stands for “Hardware-enabled [&#8230;]</p>
+<p>The post <a href="/the-heart-research-project-proposal-secures-over-830k-e-of-nsrf-funding/">The ‘HEART’ research project proposal secures over 830K € of NSRF funding</a> appeared first on <a href="/">Heart Project Website</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="1790" class="elementor elementor-1790">
+						<section class="has_ma_el_bg_slider elementor-section elementor-top-section elementor-element elementor-element-de8c41f elementor-section-boxed elementor-section-height-default elementor-section-height-default jltma-glass-effect-no" data-id="de8c41f" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="has_ma_el_bg_slider elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-0c589aa jltma-glass-effect-no" data-id="0c589aa" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-690d1d7 jltma-glass-effect-no elementor-widget elementor-widget-text-editor" data-id="690d1d7" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p>Greece, 21 December: The ‘HEART’ research project proposal by NET2GRID, HERON and the Datalab at the School of Informatics of the Aristotle University of Thessaloniki was amongst the 10% of the project applications to be funded by NSRF, the Greek National Strategic Reference Framework, following a rigorous selection process.</p><p>Τhe ‘HEART’ project stands for “Hardware-enabled Energy Analytics in Real Time”. Τhe aim of the project is to develop an end to end solution which enables residential customers to get real time insights into their household’s energy consumption, while unlocking numerous business and societal opportunities for all interested stakeholders.</p><p>The project was awarded over 830,000 Euros and it is scheduled to last for 2,5 years.</p><p>The ‘HEART’ project will be delivered by a strategic cooperation between academia and industry which will bring together NET2GRID &#8211; a leading international start-up, HERON &#8211; one of the biggest energy providers in Greece and the innovative Datalab &#8211; a vibrant research lab at the School of Informatics of the Aristotle University of Thessaloniki. NET2GRID with its extensive experience in energy data acquisition and analytics will be the project coordinator.</p>						</div>
+				</div>
+				<div class="elementor-element elementor-element-390f123 jltma-glass-effect-no elementor-widget elementor-widget-image" data-id="390f123" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+													<img loading="lazy" decoding="async" width="450" height="199" src="/wp-content/uploads/2021/03/heart_news_01-1.jpg" class="attachment-full size-full wp-image-1800" alt="" srcset="/wp-content/uploads/2021/03/heart_news_01-1.jpg 450w, /wp-content/uploads/2021/03/heart_news_01-1-300x133.jpg 300w, /wp-content/uploads/2021/03/heart_news_01-1-16x7.jpg 16w" sizes="(max-width: 450px) 100vw, 450px" />													</div>
+				</div>
+				<div class="elementor-element elementor-element-eead9bb jltma-glass-effect-no elementor-widget elementor-widget-text-editor" data-id="eead9bb" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p>In a nutshell, the ‘HEART’ project will progress the design and production of a smart, highly accurate and cost-effective device, capable of collecting energy consumption data from 100 test households in Greece. A cloud infrastructure will be put in place to collect and analyse data which will be used to train smart (machine learning) algorithms to identify energy usage patterns on appliance level. Τhe core aim is to come up with energy analytics algorithms which will not only be accurate, but also adaptive and lightweight enough to run on the hardware (at the edge and the cloud). This will minimise communication and hosting costs and thereby allow for real-time, cost-effective and scalable solutions. The extracted knowledge will be shared with consumers and/or utilities managers via a user-friendly interface.</p><p>Dr. Dimitrios Doukas, Chief Information Officer at NET2GRID said:</p><p>‘’From the Internet-of-Things (IoT) towards the Things-of-Importance (ToI), that’s HEART’s ambition. Through our cooperation with HERON and the Aristotle University of Thessaloniki, of which we are deeply proud, we are delivering the most innovative real-time energy analytics algorithms running on the edge.’’</p><p>George Daniolos, Managing Director at HERON said:</p><p>“We are excited to be participating in such an innovative project together with Net2Grid and the Aristotle University of Thessaloniki. Projects like these mark our ambition to be the leader in the energy transition towards a zero-carbon economy in Greece. Our role is to show that this necessary transformation creates value and that it can combine performance and the common good.”</p><p>Prof. Athena Vakali, Professor at The Aristotle University of Thessaloniki said:</p><p>‘’Datalab is constantly targeting transfer of knowledge and scientific outcomes application to real life scenarios, contributing to both social good and economic growth. It’s a privilege and an honor for Datalab team to work with the brilliant pioneers and entrepreneurs from Net2Grid and HERON under the ambitious HEART project which will advance Datalab’s algorithms, knowledge, and scientific capacity in such a breakthrough solution for real-time energy analytics’’</p>						</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+				</div>
+		<p>The post <a href="/the-heart-research-project-proposal-secures-over-830k-e-of-nsrf-funding/">The ‘HEART’ research project proposal secures over 830K € of NSRF funding</a> appeared first on <a href="/">Heart Project Website</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>
